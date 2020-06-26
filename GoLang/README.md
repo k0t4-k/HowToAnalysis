@@ -4,12 +4,12 @@ Despite the Kaiji file being stripped, we were able to restore function names us
 
 ## HowTo
 
+- [Reversing GO binaries like a pro](https://rednaga.io/2016/09/21/reversing_go_binaries_like_a_pro/)
 - [Analyzing Golang Executables](https://www.pnfsoftware.com/blog/analyzing-golang-executables/)
 - [Reversing Golang Binaries: Part-1](https://medium.com/@nishanmaharjan17/reversing-golang-binaries-part-1-c273b2ca5333) 
 - [The Gopher in the Room: Analysis of GoLang Malware in the Wild](https://www.paloaltonetworks.jp/company/in-the-news/2019/the-gopher-in-the-room-analysis-of-golang-malware-in-the-wild)
-- [Annotating Golang binaries with Cutter and Jupyter](https://isc.sans.edu/diary/rss/24790)
-- [Hackers turn to Golang to create new malware](https://www.scmagazineuk.com/hackers-turn-golang-create-new-malware/article/1524538)
-- [An Overview of the Recent Wave of Malware Written in GoLang](https://cyware.com/news/an-overview-of-the-recent-wave-of-malware-written-in-golang-fa80a815)
+- [Introduction to analysing Go binaries](https://isc.sans.edu/forums/diary/Introduction+to+analysing+Go+binaries/24770/)
+- [The Go low-level calling convention on x86-64](https://dr-knz.net/go-calling-convention-x86-64.html)
 - [List of reverse articles](https://twitter.com/binitamshah/status/1192254101733695489)
 
 ## Malware
